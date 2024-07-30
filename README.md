@@ -3,7 +3,7 @@ In this repo you can find a project that is split between Backend, and Frontend 
 
 Our backend is using Expressjs, and a MySQL database;
 
-Our frontend is using Nextjs. 
+Our frontend is using Nextjs!
 
 This repo uses a docker-compose.yml file to launch the project in your local environment that means you must have Docker installed
 and running before attempting the start the local environment for work; [Download Docker Here](https://www.docker.com/products/docker-desktop/)
